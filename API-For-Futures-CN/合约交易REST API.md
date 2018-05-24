@@ -476,6 +476,8 @@ force_liqu_price:预估爆仓价
 3. POST /api/v1/future_trade   合约下单
 
 URL `https://www.okex.com/api/v1/future_trade.do`  访问频率 20次/2秒 	
+URL `https://www.okex.com/api/v1/future_trade.do`  访问频率 20次/2秒 
+访问频率5次/秒	
 
 示例	
 
